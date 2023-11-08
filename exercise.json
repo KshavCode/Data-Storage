@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Rahul",
+    "age": 18,
+    "passcode": 4567
+  },
+  {
+    "name": "johny",
+    "age": 16,
+    "passcode": 2007
+  },
+  {
+    "name": "hero",
+    "age": 34,
+    "passcode": 6574
+  },
+  {
+    "name": "india",
+    "age": 12,
+    "passcode": 1111
+  },
+  {
+    "name": "Jerry",
+    "age": 54,
+    "passcode": 0
+  },
+  {
+    "name": "USA",
+    "age": 34,
+    "passcode": 8888
+  },
+  {
+    "name": "Superman",
+    "age": 34,
+    "passcode": 3453
+  },
+  {
+    "name": "Spiderman",
+    "age": 20,
+    "passcode": 4444
+  }
+]
